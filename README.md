@@ -2,7 +2,7 @@
 **The objective of this NLP project is to showcase the fine-tuning process of both Spacy V3 & Bert Model from Hugging Face. Very critically, the data has to be formatted appropriately for both Spacy and HuggingFace and the conversion of NER label offsets from Spacy formatting to IOB formatting of Hugging Face. Specifically, for transformer architectures or Bert Model, the tokens and NER labels have to be both aligned, especially when tokens can be split into subwords. The primary objective was to understand the required data formatting for the models and to also understand the fine-tuning process of NER, a sequence tagging tasak, unlike the common text classification.**
 
 ## Screenshot of the Web Application
-![alt text](Screenshot_25-9-2024_05847_localhost.jpeg)
+![alt text](medical_ner.png)
 
 
 ## Scoring Metric Choice
